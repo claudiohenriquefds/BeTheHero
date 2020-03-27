@@ -1,5 +1,7 @@
 #Bibliotecas de desenvolvimento
  - nodemon -> necessita de insalação
+  # Pacote de testes
+ - jest
 
 #Bibliotecas para o projeto
  - express -> necessita instalação
@@ -11,3 +13,7 @@
 
  #Funcionalidades do knex
  - Migrations
+
+ # Pacote de validação
+ - celebrate
+
